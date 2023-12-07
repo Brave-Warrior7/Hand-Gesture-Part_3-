@@ -1,0 +1,35 @@
+body
+{
+  color: white;
+  background: #9b0887;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #selfie_result
+{
+  border: 2px dashed cyan;
+  width: 350px;
+  height: 300px; 
+}
+
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+h4{
+  font-size: 25px;
+  background-color: rgb(75, 212, 230);
+  border-radius: 10px;
+  width:50%;
+}
+#Identify_div{
+  float: right;
+
+}
+
